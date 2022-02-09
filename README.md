@@ -16,8 +16,6 @@ At the moment, I can help you with:
 🔭 I’m currently working on building my portfolio <br>
 🌱 I’m currently learning HTML, CSS and version control <br>
 🤔 I’m looking for repos I can help and learn with ... <br>
-💬 Ask me about ... <br>
-📫 How to reach me: ... <br>
 😄 I like games, sports, books and good :wine_glass: <br>
 
 
